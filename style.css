@@ -1,5 +1,6 @@
 body {
 	background-color: #000000
+	padding: 3px;
 }
 
 h1 {
@@ -14,4 +15,11 @@ p {
 	text-align: center;
 	font-family: "Calibri";
 	font-size: 20px;
+}
+
+A {
+	color: orange;
+	text-align: center;
+	font-family: "Calibri";
+	font-size: 15px;
 }
