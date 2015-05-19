@@ -1,5 +1,5 @@
 body {
-	background-color: #000000
+	background-color: #ffffff
 	padding: 3px;
 }
 
@@ -11,7 +11,7 @@ h1 {
 }
 
 p {
-	color: blue;
+	color: white;
 	text-align: center;
 	font-family: "Calibri";
 	font-size: 20px;
