@@ -1,13 +1,17 @@
 body {
-	background-color: #ffffff
+	background-color: #000000
 }
 
 h1 {
 	color: red;
 	text-align: center;
+	font-family: "Calibri";
+	font-size: 40px;
 }
 
 p {
+	color: blue;
+	text-align: center;
 	font-family: "Calibri";
-	font-size: 40px;
+	font-size: 20px;
 }
