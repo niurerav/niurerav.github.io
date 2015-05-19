@@ -5,8 +5,9 @@ body {
 h1 {
 	color: red;
 	text-align: center;
-	font-family: "Calibri";
+	font-family: "Josefin Slab";
 	font-size: 40px;
+	border-botton: 3px solid #cc9900
 }
 
 p {
