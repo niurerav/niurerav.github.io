@@ -1,12 +1,14 @@
 body {
-	background-image: url("b_image.jpg");
+	background-image: url("images/b_image.jpg");
 	background-repeat: no-repeat;
+	background-position: center;
+	background-size: auto;
 }
 
 h1 {
 	font-family: Georgia, serif;
 	color: red;
-	text-align: centre;
+	text-align: center;
 }
 
 p {
