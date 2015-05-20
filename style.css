@@ -5,17 +5,17 @@ body {
 h1 {
 	font-family: Georgia, serif;
 	color: red;
-	align: centre;
+	text-align: centre;
 }
 
 p {
 	font-family: calibri;
 	color: white;
-	align: left;
+	text-align: left;
 }
 
 A {
 	font-family: calibri;
 	color: red;
-	align: right;
+	text-align: right;
 }
