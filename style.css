@@ -5,12 +5,13 @@ body {
 h1 {
 	font-family: Georgia, serif;
 	color: red;
+	align: center;
 }
 
 p1 {
 	font-family: calibri;
-	color: orange;
-	align: center;
+	color: white;
+	align: left;
 }
 
 A {
