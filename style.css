@@ -1,6 +1,6 @@
 body {
 	background-image: url("b_image.jpg");
-	background-color: #000000
+	background-repeat: no-repeat;
 }
 
 h1 {
