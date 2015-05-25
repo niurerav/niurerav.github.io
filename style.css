@@ -1,19 +1,22 @@
 body {
-	background-image: url("images/b_image.jpg");
+	background-image: url("b_image.jpg");
 	background-repeat: no-repeat;
-	background-position: center;
+	background-attachment: scroll;
+	background-position: auto;
 	background-size: auto;
 }
 
 h1 {
-	font-family: Georgia, serif;
-	color: red;
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 1000;
+	color: white;
 	text-align: center;
+	letter-spacing: 100;
 }
 
 p {
 	font-family: calibri;
-	color: white;
+	color: orange;
 	text-align: left;
 }
 
