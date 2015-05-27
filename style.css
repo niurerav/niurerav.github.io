@@ -1,17 +1,21 @@
 body {
-	background-image: url("b_image.jpg");
-	background-repeat: no-repeat;
-	background-attachment: scroll;
-	background-position: auto;
-	background-size: auto;
+	background: url(b_image.png) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
 h1 {
-	font-family: "Lucida Console", Monaco, monospace;
-	font-size: 1000;
+	@font-face {
+		font-family: Jura;
+		src: url(https://www.google.com/fonts/specimen/Jura);
+		font-weight: normal;
+	};
+	font-size: 50px;
 	color: white;
 	text-align: center;
-	letter-spacing: 100;
+	letter-spacing: 10px;
 }
 
 p {
