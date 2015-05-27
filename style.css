@@ -3,18 +3,18 @@ body {
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: cover;
+	background-size: contain;
 }
 
 h1 {
 	@font-face {
 		font-family: Jura;
 		src: url(https://www.google.com/fonts/specimen/Jura);
-		font-weight: normal;
+		font-weight: 100;
 	};
 	font-size: 50px;
-	color: white;
-	text-align: center;
+	color: #ff5a09;
+	text-align: left;
 	letter-spacing: 10px;
 }
 
