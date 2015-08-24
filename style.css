@@ -4,6 +4,7 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	background-color: #b0b0b0;
 }
 
 h1 {
@@ -13,7 +14,7 @@ h1 {
 		font-weight: 100;
 	};
 	font-size: 50px;
-	color: #ff5a09;
+	color: purple;
 	text-align: left;
 	letter-spacing: 10px;
 }
@@ -32,14 +33,15 @@ h2 {
 
 p {
 	font-family: calibri;
-	color: orange;
+	color: black;
 	text-align: left;
 }
 
 p2 {
 	font-family: calibri;
 	font-size: 12px;
-	color: blue;
+	font: italic;
+	color: black;
 	text-align: left;
 }
 
