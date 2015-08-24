@@ -22,7 +22,7 @@ h2 {
 	@font-face {
 		font-family: Jura;
 		src: url (https://www.google.com/fonts/specimen/Jura);
-		font-weight: 100;
+		font-weight: 50;
 	};
 	font-size 25px;
 	color: green;
@@ -33,6 +33,12 @@ h2 {
 p {
 	font-family: calibri;
 	color: orange;
+	text-align: left;
+}
+
+p2 {
+	font-family: calibri;
+	color: blue;
 	text-align: left;
 }
 
